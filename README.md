@@ -1,5 +1,7 @@
 # Single Page Apps for GitHub Pages
 
+[Code concepts & credits](https://github.com/rafrex/spa-github-pages)
+
 [Live example][liveExample]  
 
 This is a lightweight solution for deploying single page apps with [GitHub Pages][ghPagesOverview]. You can easily deploy a [React][react] single page app with [React Router][reactRouter] `<BrowserRouter />`, like the one in the [live example][liveExample], or a single page app built with any frontend library or framework.
@@ -78,17 +80,6 @@ I have included `webpack-dev-server` for testing changes locally. It can be acce
 - One of the great things about the GitHub Pages CDN is that all files are automatically compressed with gzip, so no need to worry about compressing your JavaScript, HTML or CSS files for production
 
 
-<!-- links to within repo -->
-[404html]: https://github.com/rafrex/spa-github-pages/blob/gh-pages/404.html
-[segmentCount]: https://github.com/rafrex/spa-github-pages/blob/gh-pages/404.html#L26
-[indexHtmlScript]: https://github.com/rafrex/spa-github-pages/blob/gh-pages/index.html#L58
-[indexHtmlSPA]: https://github.com/rafrex/spa-github-pages/blob/gh-pages/index.html#L94
-[cnameFile]: https://github.com/rafrex/spa-github-pages/blob/gh-pages/CNAME
-[indexHtmlTitle]: https://github.com/rafrex/spa-github-pages/blob/gh-pages/index.html#L6
-[404htmlTitle]: https://github.com/rafrex/spa-github-pages/blob/gh-pages/404.html#L5
-[favicon]: https://github.com/rafrex/spa-github-pages/blob/gh-pages/index.html#L34
-[startScript]: https://github.com/rafrex/spa-github-pages/blob/gh-pages/package.json#L6
-
 <!-- links to github docs -->
 [ghPagesOverview]: https://pages.github.com/
 [ghPagesBasics]: https://help.github.com/categories/github-pages-basics/
@@ -97,7 +88,7 @@ I have included `webpack-dev-server` for testing changes locally. It can be acce
 [nojekyll]: https://help.github.com/articles/files-that-start-with-an-underscore-are-missing/
 
 <!-- other links -->
-[liveExample]: http://spa-github-pages.rafrex.com
+[liveExample]: https://app.syedhassanali.com
 [react]: https://github.com/facebook/react
 [reactRouter]: https://github.com/ReactTraining/react-router
 [seoLand]: http://searchengineland.com/tested-googlebot-crawls-javascript-heres-learned-220157
